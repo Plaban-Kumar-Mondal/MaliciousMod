@@ -1,0 +1,6 @@
+{
+  "parent": "item/bow",
+  "textures": {
+    "layer0": "plaban_malicious_mod:item/iron_bow_pulling_1"
+  }
+}

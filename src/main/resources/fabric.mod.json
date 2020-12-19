@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "plaban_malicious_mod",
+  "version": "${version}",
+  "name": "Plaban's Malicious Mod",
+  "description": "",
+  "authors": [
+    "Plaban"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/malicious/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "plaban.mod.malicious.Malicious"
+    ]
+  },
+  "mixins": [
+    "malicious.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.10.8",
+    "fabric": "*",
+    "minecraft": "1.16.4"
+  }
+}
