@@ -1,5 +1,6 @@
 {
   "item.plaban_malicious_mod.iron_rod": "Iron Rod",
   "item.plaban_malicious_mod.iron_bow": "Iron Bow",
-  "block.plaban_malicious_mod.iron_fence": "Iron Fence"
+  "block.plaban_malicious_mod.iron_fence": "Iron Fence",
+  "block.plaban_malicious_mod.iron_fence_gate": "Iron Fence Gate"
 }
